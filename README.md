@@ -12,3 +12,7 @@ Below are attached links and files for my application
 
 ## GitHub Portfolio
 [GitHub Portfolio](https://github.com/Njega-01/My-Portfolio)
+
+## Creative Submission Essay
+[Creative Submission Essay](https://github.com/userattachments/files/18239983/Creative_Submission_Essay_TonnyNjega.docx)
+
